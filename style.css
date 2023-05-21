@@ -191,5 +191,5 @@ aside span {
 
 @keyframes blink-caret {
   from, to { border-color: transparent; }
-  50% { border-color: #000; }
+  50% { border-color: #ffffff; }
 }
